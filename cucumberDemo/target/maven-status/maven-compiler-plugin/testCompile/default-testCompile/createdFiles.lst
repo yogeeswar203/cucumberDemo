@@ -1,0 +1,12 @@
+pageObjects\RegisterPage.class
+pageObjects\HomePage.class
+pageObjects\loginPage.class
+cucumberDemoStepDef\registration_qafox.class
+pageObjects\MyAccocuntPage.class
+utilities\DataReaderfile.class
+pageObjects\BasePage.class
+testrunner\Testrunner_class.class
+cucumberDemoStepDef\stepdef_login.class
+cucumberDemoStepDef\login_qafox.class
+factory\BaseClass.class
+hooks\Hooks.class

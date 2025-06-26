@@ -1,0 +1,8 @@
+Feature: user login nopApp
+
+  Scenario: Successfull Login2
+    Given the user is on nonCommerce Login Page
+    When the user enter valid credintials (username: "admin", password:"Admin@123")
+    And the user clicks on login button
+    Then the user should be re directed to My Account page
+    And the user should see a welcome message
